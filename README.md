@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divyarams
 - 👀 I’m interested in leveraging Cloud services
-- 🌱 I’m currently learning AWS
+- 🌱 I enjoy creating serverless Event driven architectures!
 - 📫 Reach me at divyarams49@gmail.com
 
 <!---
